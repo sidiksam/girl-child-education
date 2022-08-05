@@ -20,7 +20,7 @@ This Portfolio is hosted on GitHub Page. [Click here]()
 
 ![gced]()
 
-Here is a [Loom video that shows the description of the project's features]()
+Here is a [Loom video that shows the description of the project's features](https://drive.google.com/drive/u/1/folders/1ApVyuM091btei-z-loe5OkLJbTGNZD3c)
 
 ### Objective
 
