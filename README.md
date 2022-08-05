@@ -41,7 +41,7 @@ This project's goals are as follows:
 
 ## Built With
 
-- HTML, CSS (Tailwind ), Javascript (Vanilla)
+- HTML, CSS (Tailwind ), Javascript
 
 ## Getting Started
 
