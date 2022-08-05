@@ -6,6 +6,7 @@ Girl child education in sierra leone summit 2022
 
 > This project is developed as a capstone project to put to test all we have learnt during the module. It is a Girl child education organization that creates awareness for an up-coming conference for girls and women. This project is done in fulfillment to the requirements Microverse has made.
 
+
 ## Description
 
 ## Hosting
@@ -14,11 +15,12 @@ This final capstone project hosted on GitHub Page. [Click here](https://sidiksam
 
 ### Mobile version Screenshot:
 
-![ge](../../Pictures/mobile.png)
+![mobile](https://user-images.githubusercontent.com/46374143/183217088-700e05aa-2d6c-439d-91a8-f3a784cbf742.png)
+
 
 ### Desktop version Screenshot:
+![desktop ](https://user-images.githubusercontent.com/46374143/183217209-f5fc0ef5-51d2-4a2b-a942-dde850af405a.png)
 
-![gced](../../Pictures/desktop%20.png)
 
 Here is a [Loom video that shows the description of the project's features](https://drive.google.com/drive/u/1/folders/1ApVyuM091btei-z-loe5OkLJbTGNZD3c)
 
