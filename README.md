@@ -10,15 +10,15 @@ Girl child education in sierra leone summit 2022
 
 ## Hosting
 
-This Portfolio is hosted on GitHub Page. [Click here]()
+This final capstone project hosted on GitHub Page. [Click here](https://sidiksam.github.io/girl-child-education/public/index)
 
 ### Mobile version Screenshot:
 
-![gce]()
+![ge](../../Pictures/mobile.png)
 
 ### Desktop version Screenshot:
 
-![gced]()
+![gced](../../Pictures/desktop%20.png)
 
 Here is a [Loom video that shows the description of the project's features](https://drive.google.com/drive/u/1/folders/1ApVyuM091btei-z-loe5OkLJbTGNZD3c)
 
